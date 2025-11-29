@@ -1,2 +1,2 @@
-# ZOMATO-CAPESTONE-PROJECT
+# ZOMATO-CAPSTONE-PROJECT
 Exploratory Data Analysis of Zomato food delivery agency.
